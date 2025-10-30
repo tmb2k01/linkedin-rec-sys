@@ -3,8 +3,8 @@
 ## Contributors
 
 * Antoine Bois-Berlioz - [@andeuxun](https://github.com/andeuxun)
-* Germán Buttiero - []()
-* Boldizsár Zalán Horváth - []()
+* Germán Buttiero - [@GermanButtiero](https://github.com/GermanButtiero)
+* Boldizsár Zalán Horváth - [@hoboldi](https://github.com/hoboldi)
 * Marcell Balázs Tóth - [@tmb2k01](https://github.com/tmb2k01)
 * Matteo Versaen - [@LumaGreen](https://github.com/LumaGreen)
 
